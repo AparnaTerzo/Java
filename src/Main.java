@@ -8,16 +8,19 @@ public class Main {
 
         int add = num1 + num2;
         System.out.println("Addition of " +num1+ " and " +num2+ " : " +add);
-
+        //subtraction operator
         int sub = num1 - num2;
         System.out.println("Minus of " +num1+ " and " +num2+ " : " +sub);
 
+        //multiplication operator
         int mul = num1 * num2;
         System.out.println("Product of " +num1+ " and " +num2+ " : " +mul);
 
+        //Division operator
         int div = num1 / num2;
         System.out.println("Division of " +num1+ " and " +num2+ " : " +div);
 
+        //Modulus operator
         int mod = num1 % num2;
         System.out.println("Modulus of " +num1+ " and " +num2+ " : " +mod);
 
@@ -29,7 +32,7 @@ public class Main {
         System.out.println("The value of y is " +y);
         System.out.println("The value of z is " +z);
 
-        //Increment operator
+        //Decrement operator
         int a=5;
         int b=a--;
         int c=--a;
