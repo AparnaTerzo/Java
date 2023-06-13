@@ -7,8 +7,8 @@ public class Main {
         System.out.println("The Number : "+number);
 
         //Assigning value for a variable
-        int age = 20;
-        int newAge = age;
+        int oldAge = 20;
+        int newAge = oldAge;
         System.out.println("New Age is " +newAge);
     }
 }
