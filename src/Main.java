@@ -2,7 +2,9 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello");
+        final float PI = 3.14f;
+
+        System.out.println(PI);
 
     }
 }
